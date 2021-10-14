@@ -1,6 +1,5 @@
-import * as React from "react"
-import ImgData from "../data/imgData"
-import useSwiperRef from "./useSwiperRef"
+import React, {useState, useRef, useEffect} from "react"
+import ImgData from "../imgData"
 import { Swiper, SwiperSlide } from "swiper/react"
 import { FaAngleLeft, FaAngleRight } from "react-icons/fa"
 import SwiperCore, { Autoplay, Navigation, Pagination } from "swiper"
@@ -11,6 +10,18 @@ import "swiper/css/scrollbar"
 import "swiper/css/lazy"
 
 SwiperCore.use([Autoplay, Pagination, Navigation])
+
+const useSwiperRef = () => {
+    const [wrapper, setWrapper] = useState(null);
+    const ref = useRef(null);
+    useEffect(() => {
+        setWrapper(ref.current)
+    }, []);
+    return [
+        wrapper,
+        ref
+    ]
+}
 
 const ImageSlider = () => {
     const [nextEl, nextElRef] = useSwiperRef()
