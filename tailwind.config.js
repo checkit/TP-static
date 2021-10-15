@@ -3,15 +3,9 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
-    container: {
-      center: true,
-      padding: {
-        DEFAULT: '1rem'
-      }
-    }
   },
   variants: {
     extend: {},
   },
-  plugins: [],
+  plugins: ['gatsby-plugin-postcss'],
 }
