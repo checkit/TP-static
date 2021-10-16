@@ -1,4 +1,4 @@
-mport speedboat from "../images/slide_img/speedboat-Toddlerpillar.jpg"
+import speedboat from "../images/slide_img/speedboat-Toddlerpillar.jpg"
 import beeple from "../images/slide_img/beeple-toddlerpillar.jpg"
 import bonzai from "../images/slide_img/Bonzai-Toddlerpillar.jpg"
 import cockroach from "../images/slide_img/cockroach-head-Toddlerpillar.jpg"
