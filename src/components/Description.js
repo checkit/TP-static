@@ -5,8 +5,8 @@ import { FaDiscord, FaInstagram, FaTwitter } from "react-icons/fa"
 const Description = () => {
     const social_url = {
         discord: "https://discord.com/invite/toddlerpillars",
-        instagram: "https://instagram.com/invite/toddlerpillars?",
-        twitter: "https://twitter.com/invite/toddlerpillars"
+        instagram: "https://instagram.com/toddlerpillars?",
+        twitter: "https://twitter.com/toddlerpillars"
     }
 
     const data = useStaticQuery(graphql`
