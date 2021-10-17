@@ -1,23 +1,23 @@
 import speedboat from "../images/slide_img/speedboat-Toddlerpillar.jpg"
 import beeple from "../images/slide_img/beeple-toddlerpillar.jpg"
-import bonzai from "../images/slide_img/Bonzai-Toddlerpede (1).jpg"
+import bonzai from "../images/slide_img/Bonzai-Toddlerpillar.jpg"
 import cockroach from "../images/slide_img/cockroach-head-Toddlerpillar.jpg"
 import dollarmhead from "../images/slide_img/dollarmhead-Toddlerpillar.jpg"
 import egghead from "../images/slide_img/egghead-todlerpillars.jpg"
 import grasshead from "../images/slide_img/grasshead-Toddlerpillar.jpg"
-import f_img from "../images/slide_img/image0 (1).jpg"
+import f_img from "../images/slide_img/image0.jpg"
 import s_img from "../images/slide_img/image0 (2).jpg"
-import z_img from "../images/slide_img/image0.jpg"
-import jacuzzihead from "../images/slide_img/jacuzzihead-Toddleerpillars.jpg"
+import snowglobe from "../images/slide_img/Toddlerpillar-snowglobe.jpg"
+import jacuzzihead from "../images/slide_img/jacuzzihead-Toddlerpillars.jpg"
 import jelly from "../images/slide_img/jelly-Toddlerpillar.jpg"
-import Manny from "../images/slide_img/Manny-Toddlerpede.jpg"
-import medusa from "../images/slide_img/medusa-toddlerpede.jpg"
-import monkeynest from "../images/slide_img/monkeynest-Toddlerpiller.jpg"
-import mushroom from "../images/slide_img/Mushroom-Toddlerpede.jpg"
+import Manny from "../images/slide_img/Manny-Toddlerpillar.jpg"
+import medusa from "../images/slide_img/medusa-toddlerpillar.jpg"
+import monkeynest from "../images/slide_img/monkeynest-Toddlerpillar.jpg"
+import mushroom from "../images/slide_img/Mushroom-Toddlerpillar.jpg"
 import mushrooms from "../images/slide_img/mushrooms-toddlerpillar.jpg"
-import pyramid from "../images/slide_img/Pyramid-Toddlerpede.jpg"
-import snails from "../images/slide_img/Snails-Toddlerpede.jpg"
-import spaghetti from "../images/slide_img/Spaghetti-Toddlerpedes.jpg"
+import pyramid from "../images/slide_img/Pyramid-Toddlerpillar.jpg"
+import snails from "../images/slide_img/Snails-Toddlerpillar.jpg"
+import spaghetti from "../images/slide_img/Spaghetti-Toddlerpillar.jpg"
 
 const ImgData = [
     {
@@ -67,8 +67,8 @@ const ImgData = [
     },
     {
         id: 9,
-        url: z_img,
-        alt: "unknown"
+        url: snowglobe,
+        alt: "snowglobe"
     },
     {
         id: 10,
