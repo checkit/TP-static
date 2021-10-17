@@ -6239,6 +6239,7 @@ if (false) {} else {
 /***/ }),
 
 /***/ "react-dom/server":
+<<<<<<< Updated upstream
 /*!********************************************************************************************************!*\
   !*** external "/Users/wang/Documents/untitled folder 3/landing-page/node_modules/react-dom/server.js" ***!
   \********************************************************************************************************/
@@ -6246,13 +6247,50 @@ if (false) {} else {
 
 "use strict";
 module.exports = require("/Users/wang/Documents/untitled folder 3/landing-page/node_modules/react-dom/server.js");
+=======
+/*!**************************************************************************!*\
+  !*** external "/Users/root1/TP-static/node_modules/react-dom/server.js" ***!
+  \**************************************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("/Users/root1/TP-static/node_modules/react-dom/server.js");
+>>>>>>> Stashed changes
 
 /***/ }),
 
 /***/ "react":
+<<<<<<< Updated upstream
 /*!***************************************************************************************************!*\
   !*** external "/Users/wang/Documents/untitled folder 3/landing-page/node_modules/react/index.js" ***!
   \***************************************************************************************************/
+=======
+/*!*********************************************************************!*\
+  !*** external "/Users/root1/TP-static/node_modules/react/index.js" ***!
+  \*********************************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("/Users/root1/TP-static/node_modules/react/index.js");
+
+/***/ }),
+
+/***/ "path":
+/*!***********************!*\
+  !*** external "path" ***!
+  \***********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("path");
+
+/***/ }),
+
+/***/ "./.cache/redirects.json":
+/*!*******************************!*\
+  !*** ./.cache/redirects.json ***!
+  \*******************************/
+>>>>>>> Stashed changes
 /***/ ((module) => {
 
 "use strict";

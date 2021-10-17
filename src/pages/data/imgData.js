@@ -12,10 +12,17 @@ import jacuzzihead from "../images/slide_img/jacuzzihead-Toddlerpillars.jpg"
 import jelly from "../images/slide_img/jelly-Toddlerpillar.jpg"
 import Manny from "../images/slide_img/Manny-Toddlerpillar.jpg"
 import medusa from "../images/slide_img/medusa-toddlerpillar.jpg"
+<<<<<<< Updated upstream:src/pages/data/imgData.js
 import monkeynest from "../images/slide_img/monkeynest-Toddlerpillar.jpg"
 import mushroom from "../images/slide_img/Mushroom-Toddlerpillar.jpg"
 import mushrooms from "../images/slide_img/mushrooms-toddlerpillar.jpg"
 import pyramid from "../images/slide_img/Pyramid-Toddlerpede.jpg"
+=======
+import monkeynest from "../images/slide_img/monkeynest-Toddlerpiller.jpg"
+import mushroom from "../images/slide_img/Mushroom-Toddlerpillar.jpg"
+import mushrooms from "../images/slide_img/mushrooms-toddlerpillar.jpg"
+import pyramid from "../images/slide_img/Pyramid-Toddlerpillar.jpg"
+>>>>>>> Stashed changes:src/components/imgData.js
 import snails from "../images/slide_img/Snails-Toddlerpillar.jpg"
 import spaghetti from "../images/slide_img/Spaghetti-Toddlerpillar.jpg"
 
