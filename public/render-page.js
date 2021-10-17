@@ -11383,24 +11383,24 @@ module.exports = withSideEffect;
 /***/ }),
 
 /***/ "react-dom/server":
-/*!***************************************************************************************************!*\
-  !*** external "/Users/wang/Documents/untitled folder 3/landing/node_modules/react-dom/server.js" ***!
-  \***************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** external "/Users/wang/Documents/untitled folder 3/TP-static/node_modules/react-dom/server.js" ***!
+  \*****************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/wang/Documents/untitled folder 3/landing/node_modules/react-dom/server.js");
+module.exports = require("/Users/wang/Documents/untitled folder 3/TP-static/node_modules/react-dom/server.js");
 
 /***/ }),
 
 /***/ "react":
-/*!**********************************************************************************************!*\
-  !*** external "/Users/wang/Documents/untitled folder 3/landing/node_modules/react/index.js" ***!
-  \**********************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** external "/Users/wang/Documents/untitled folder 3/TP-static/node_modules/react/index.js" ***!
+  \************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/wang/Documents/untitled folder 3/landing/node_modules/react/index.js");
+module.exports = require("/Users/wang/Documents/untitled folder 3/TP-static/node_modules/react/index.js");
 
 /***/ }),
 
