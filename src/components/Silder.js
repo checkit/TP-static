@@ -43,6 +43,11 @@ const ImageSlider = () => {
                 prevEl,
                 nextEl
             }}
+            autoplay= {{
+                delay: 3000,
+                spaceBetween: 1000
+            }}
+            allowTouchMove={true}
             spaceBetween={50}
             slidesPerView={1}
         >
